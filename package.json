@@ -1,6 +1,6 @@
 {
   "name": "gamecredits-electrumx-host-parse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "electrum peer string parser",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -36,7 +36,7 @@
     "test": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha ./dist/test",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
-  "author": "Gametoschi",
+  "author": "gametoschi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Globaleliteee/gamecredits-electrumx-host-parse/issues"
